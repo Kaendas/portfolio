@@ -17,4 +17,4 @@ Peli oli tehty Godot-enginellä ja sai kolmannen kohdan overall kategoriassa, ja
 
 # 3D-Mallinnus
 
-Harrastan 3d mallinta CAD sovelluksilla
+Harrastan 3d mallinta CAD sovelluksilla, esimerkki malleja löytyy 3Dmallit kansiosta
