@@ -14,3 +14,6 @@ Ei tällähetkellä koodia jota näytää koska peli on keskeneränen
 [verkkosivuversio](https://0wned.cc/glitchquest/)
 
 Peli oli tehty godot enginellä ja sai kolmannen kohdan overall categoriassa, sai ensimmäisen kohdan audio designessä ja gameplay
+
+#3d mallinnus
+
