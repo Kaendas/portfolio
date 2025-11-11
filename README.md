@@ -1,9 +1,12 @@
-# portfolio
+# Koodaus portfolio
 
 # Projectei:
 
 ## Serlachius peli projecti
 Pelillisesty versio [Taavetinsaaresta](https://guides.serlachius.fi/metsapolku)
+
+Ei tällähetkellä koodia jota näytää koska peli on keskeneränen 
+
 ## Finnish college jam 9 peli
 
 [itch io sivu](https://laurijulku.itch.io/glitch-quest)
